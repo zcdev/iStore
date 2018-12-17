@@ -1,0 +1,24 @@
+{
+  "name": "iStore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "iStore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcdev/iStore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcdev/iStore/issues"
+  },
+  "homepage": "https://github.com/zcdev/iStore#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
